@@ -1,2 +1,5 @@
-#About PhonePe Transaction Analysis Project.
-This project focuses on analyzing and visualizing digital payment data from the PhonePe Pulse GitHub repository. The dataset includes transaction trends, user statistics, and geographical insights across Indian states and districts. The goal is to extract meaningful insights, create structured datasets, and present interactive dashboards for exploration.
+#  PhonePe Transaction Insights
+
+An end-to-end data analysis and visualization project that explores digital payment trends in India using data from the [PhonePe Pulse GitHub repository](https://github.com/PhonePe/pulse). This includes data extraction, transformation, SQL integration, and interactive dashboards using Streamlit and Power BI.
+
+## 
